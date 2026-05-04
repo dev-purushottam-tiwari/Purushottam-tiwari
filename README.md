@@ -1,4 +1,4 @@
-its light mode any dark mode <h1 align="center">Hi 👋, I'm Purushottam Tiwari</h1>
+ <h1 align="center">Hi 👋, I'm Purushottam Tiwari</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Engineer;Problem+Solver" />
