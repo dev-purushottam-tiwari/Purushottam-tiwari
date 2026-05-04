@@ -1,14 +1,68 @@
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hs764664@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dev-himanshu-sharma&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dev-himanshu-sharma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dev-himanshu-sharma&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Purushottam Tiwari</h1>
+<h3 align="center">MERN Stack Developer | Final Year Student</h3>
 
 ---
-[![](https://komarev.com/ghpvc/?username=dev-himanshu-sharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+- 🎓 Computer Science Student (Final Year)
+- 💻 Building full-stack web applications
+- 🌱 Learning Backend & System Design
+- 📫 Reach me: purushottamtiwari701@gmail.com
+
+---
+
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-yellow"/>
+  <img src="https://img.shields.io/badge/HTML-orange"/>
+  <img src="https://img.shields.io/badge/CSS-blue"/>
+  <img src="https://img.shields.io/badge/React-blue"/>
+  <img src="https://img.shields.io/badge/Node.js-green"/>
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen"/>
+</p>
+
+---
+
+## 📊 GitHub Dashboard
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Purushottam-tiwari&show_icons=true&theme=tokyonight" />
+
+</td>
+<td>
+
+<img src="https://streak-stats.demolab.com?user=Purushottam-tiwari&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Purushottam-tiwari&theme=react-dark" />
+
+---
+
+## 💻 Top Languages
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Purushottam-tiwari&layout=compact&theme=tokyonight" />
+
+---
+
+## 🌐 Portfolio
+👉 https://checkmygit.com/Purushottam-tiwari
+
+---
+
+## 🤝 Connect with me
+- LinkedIn: add your link
+- Email: purushottamtiwari701@gmail.com
+
+---
+
+⭐️ From Purushottam Tiwari
