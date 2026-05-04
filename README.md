@@ -18,7 +18,13 @@
   <img src="https://img.shields.io/badge/CSS-blue"/>
   <img src="https://img.shields.io/badge/React-blue"/>
   <img src="https://img.shields.io/badge/Node.js-green"/>
+  <img src="https://img.shields.io/badge/Express-black"/>
   <img src="https://img.shields.io/badge/MongoDB-darkgreen"/>
+  <img src="https://img.shields.io/badge/SQL-blue"/>
+  <img src="https://img.shields.io/badge/REST%20API-grey"/>
+  <img src="https://img.shields.io/badge/Git-orange"/>
+  <img src="https://img.shields.io/badge/Postman-orange"/>
+  <img src="https://img.shields.io/badge/VS%20Code-blue"/>
 </p>
 
 ---
@@ -54,14 +60,27 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Purushottam-tiwari/Purushottam-tiwari/output/github-contribution-grid-snake.svg" />
+
+---
+
+## 🎯 Hobbies & Interests
+- 🏏 Playing Cricket  
+- 💻 Coding & Building Projects  
+- 🎤 Singing  
+
+---
+
 ## 🌐 Portfolio
 👉 https://checkmygit.com/Purushottam-tiwari
 
 ---
 
 ## 🤝 Connect with me
-- LinkedIn: add your link
-- Email: purushottamtiwari701@gmail.com
+- LinkedIn: https://www.linkedin.com/in/purushottam-kr-tiwari  
+- Email: purushottamtiwari701@gmail.com  
 
 ---
 
