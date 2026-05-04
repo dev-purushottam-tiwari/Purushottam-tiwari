@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Purushottam Tiwari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Engineer;Problem+Solver;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Engineer;Problem+Solver" />
 </p>
 
 <h3 align="center">🚀 MERN Stack Developer | Final Year CSE Student</h3>
@@ -9,16 +9,12 @@
 ---
 
 ## 🌟 About Me
-<div align="center">
-
-💻 Passionate about building scalable full-stack applications  
-🚀 Currently working on a Resume Ranking System  
-🌱 Learning Backend, System Design & DSA  
-🎯 Focused on cracking top tech placements  
-
-📫 **Email:** purushottamtiwari701@gmail.com  
-
-</div>
+<p align="center">
+💻 Building real-world full-stack applications <br/>
+🚀 Working on Resume Ranking System <br/>
+🌱 Learning Backend + System Design <br/>
+📫 Email: purushottamtiwari701@gmail.com
+</p>
 
 ---
 
@@ -29,46 +25,25 @@
 
 ---
 
-## 📊 GitHub Dashboard
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Purushottam-tiwari&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=Purushottam-tiwari&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Purushottam-tiwari&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Purushottam-tiwari&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam-tiwari&layout=donut&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam-tiwari&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 💼 Featured Projects
-<div align="center">
-
-<a href="https://github.com/Purushottam-tiwari/your-project-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Purushottam-tiwari&repo=your-project-1&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Purushottam-tiwari/your-project-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Purushottam-tiwari&repo=your-project-2&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Purushottam-tiwari/your-project-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Purushottam-tiwari&repo=your-project-3&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
 ## 🎯 Hobbies
-<div align="center">
-
-🏏 Cricket | 💻 Coding | 🎤 Singing  
-
-</div>
+<p align="center">
+🏏 Cricket | 💻 Coding | 🎤 Singing
+</p>
 
 ---
 
