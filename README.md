@@ -1,86 +1,86 @@
 <h1 align="center">Hi 👋, I'm Purushottam Tiwari</h1>
-<h3 align="center">MERN Stack Developer | Final Year Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Engineer;Problem+Solver;Building+Real+World+Projects" />
+</p>
+
+<h3 align="center">🚀 MERN Stack Developer | Final Year CSE Student</h3>
 
 ---
 
-## 🚀 About Me
-- 🎓 Computer Science Student (Final Year)
-- 💻 Building full-stack web applications
-- 🌱 Learning Backend & System Design
-- 📫 Reach me: purushottamtiwari701@gmail.com
+## 🌟 About Me
+<div align="center">
+
+💻 Passionate about building scalable full-stack applications  
+🚀 Currently working on a Resume Ranking System  
+🌱 Learning Backend, System Design & DSA  
+🎯 Focused on cracking top tech placements  
+
+📫 **Email:** purushottamtiwari701@gmail.com  
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-yellow"/>
-  <img src="https://img.shields.io/badge/HTML-orange"/>
-  <img src="https://img.shields.io/badge/CSS-blue"/>
-  <img src="https://img.shields.io/badge/React-blue"/>
-  <img src="https://img.shields.io/badge/Node.js-green"/>
-  <img src="https://img.shields.io/badge/Express-black"/>
-  <img src="https://img.shields.io/badge/MongoDB-darkgreen"/>
-  <img src="https://img.shields.io/badge/SQL-blue"/>
-  <img src="https://img.shields.io/badge/REST%20API-grey"/>
-  <img src="https://img.shields.io/badge/Git-orange"/>
-  <img src="https://img.shields.io/badge/Postman-orange"/>
-  <img src="https://img.shields.io/badge/VS%20Code-blue"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,mysql,git,postman,vscode" />
 </p>
 
 ---
 
 ## 📊 GitHub Dashboard
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Purushottam-tiwari&show_icons=true&theme=tokyonight" />
-
-</td>
-<td>
-
-<img src="https://streak-stats.demolab.com?user=Purushottam-tiwari&theme=tokyonight" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Purushottam-tiwari&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Purushottam-tiwari&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Purushottam-tiwari&theme=react-dark" />
-
----
-
-## 💻 Top Languages
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Purushottam-tiwari&layout=compact&theme=tokyonight" />
+## 🧠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam-tiwari&layout=donut&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## 💼 Featured Projects
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Purushottam-tiwari/Purushottam-tiwari/output/github-contribution-grid-snake.svg" />
+<a href="https://github.com/Purushottam-tiwari/your-project-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Purushottam-tiwari&repo=your-project-1&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Purushottam-tiwari/your-project-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Purushottam-tiwari&repo=your-project-2&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Purushottam-tiwari/your-project-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Purushottam-tiwari&repo=your-project-3&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
-## 🎯 Hobbies & Interests
-- 🏏 Playing Cricket  
-- 💻 Coding & Building Projects  
-- 🎤 Singing  
+## 🎯 Hobbies
+<div align="center">
+
+🏏 Cricket | 💻 Coding | 🎤 Singing  
+
+</div>
 
 ---
 
-## 🌐 Portfolio
-👉 https://checkmygit.com/Purushottam-tiwari
-
----
-
-## 🤝 Connect with me
-- LinkedIn: https://www.linkedin.com/in/purushottam-kr-tiwari  
-- Email: purushottamtiwari701@gmail.com  
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/purushottam-kr-tiwari">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:purushottamtiwari701@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
