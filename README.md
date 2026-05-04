@@ -21,22 +21,53 @@
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,mysql,git,postman,vscode" />
+  <p>
+  <img src="https://img.shields.io/badge/HTML-orange"/>
+  <img src="https://img.shields.io/badge/CSS-blue"/>
+  <img src="https://img.shields.io/badge/React-blue"/>
+  
+  <img src="https://img.shields.io/badge/Node.js-green"/>
+    
+  <img src="https://img.shields.io/badge/JavaScript-yellow"/>
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen"/>
+</p>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Purushottam-tiwari&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Purushottam-tiwari&theme=tokyonight" />
-</p>
+## 📊 GitHub Dashboard
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Purushottam-tiwari&show_icons=true&theme=tokyonight" />
+
+</td>
+<td>
+
+<img src="https://streak-stats.demolab.com?user=Purushottam-tiwari&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam-tiwari&layout=compact&theme=tokyonight" />
-</p>
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Purushottam-tiwari&theme=react-dark" />
+
+---
+
+## 💻 Top Languages
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Purushottam-tiwari&layout=compact&theme=tokyonight" />
+
+---
+
+## 🌐 Portfolio
+👉 https://checkmygit.com/Purushottam-tiwari
 
 ---
 
