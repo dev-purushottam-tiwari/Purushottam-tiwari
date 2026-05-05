@@ -19,12 +19,27 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,mysql,git,postman,vscode" />
-  
-</p>
+<!-- <table align="center">
+<tr>
+<td align="center"> <img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript </td>
+<td align="center"> <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML </td>
+<td align="center"> <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS </td>
+<td align="center"> <img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React </td>
+</tr>
 
----
+<tr>
+<td align="center"> <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js </td>
+<td align="center"> <img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express </td>
+<td align="center"> <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB </td>
+<td align="center"> <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL </td>
+</tr>
+
+<tr>
+<td align="center"> <img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git </td>
+<td align="center"> <img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman </td>
+<td align="center"> <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code </td>
+</tr>
+</table> -->
 
 ## 📊 GitHub Dashboard
 
