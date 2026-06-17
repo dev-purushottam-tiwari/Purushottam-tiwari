@@ -114,7 +114,7 @@ Git • Postman • VS Code
 ### 📊 Attendly
 
 <p align="center">
-  <a href="https://attendlyapp-evwl4whra-himanshus-projects-e22cd52a.vercel.app/">
+  <a href="https://attendlyapp-evwl4whra-purushottams-projects-e22cd52a.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel" />
   </a>
 </p>
@@ -150,7 +150,7 @@ React • Node.js • Express • MongoDB • Tailwind CSS
 
 
 <p align="center">
-  <a href="https://github.com/dev-himanshu-sharma/chatapp">
+  <a href="https://github.com/dev-purushottam-tiwari/chatapp">
     <img src="https://img.shields.io/badge/View%20Repository-111?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -166,7 +166,7 @@ React • Node.js • Express • MongoDB • Tailwind CSS
 ### 📊 Attendly — Attendance Management System
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-himanshu-sharma/attendly/main/frontend/src/components/attendance.jpeg" width="850"/>
+  <img src="https://raw.githubusercontent.com/dev-purushottam-tiwari/attendly/main/frontend/src/components/attendance.jpeg" width="850"/>
 </p>
 
 <p align="center">
@@ -189,11 +189,11 @@ React • Node.js • Express • MongoDB • Tailwind CSS
 React • Tailwind CSS • Node.js • Express.js • MongoDB
 
 <p align="center">
-  <a href="https://attendlyapp-evwl4whra-himanshus-projects-e22cd52a.vercel.app/">
+  <a href="https://attendlyapp-evwl4whra-purushottams-projects-e22cd52a.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel" />
   </a>
 
-  <a href="https://github.com/dev-himanshu-sharma/attendly">
+  <a href="https://github.com/dev-purushottam-tiwari/attendly">
     <img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -202,7 +202,7 @@ React • Tailwind CSS • Node.js • Express.js • MongoDB
 ### 💬 MERN Chat Application
 
 <p align="center">
-  <img src="https://github.com/dev-himanshu-sharma/mern-chatapp/blob/main/client/src/assets/chatui.png" width="850"/>
+  <img src="https://github.com/dev-purushottam-tiwari/mern-chatapp/blob/main/client/src/assets/chatui.png" width="850"/>
 </p>
 
 <p align="center">
@@ -222,7 +222,7 @@ React • Tailwind CSS • Node.js • Express.js • MongoDB
 React • Node.js • Express.js • MongoDB • Socket.io
 
 <p align="center">
-  <a href="https://github.com/dev-himanshu-sharma/chatapp">
+  <a href="https://github.com/dev-purushottam-tiwari/chatapp">
     <img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -231,7 +231,7 @@ React • Node.js • Express.js • MongoDB • Socket.io
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev-himanshu-sharma&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-purushottam-tiwari&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
 </p>
 
 
@@ -241,10 +241,10 @@ React • Node.js • Express.js • MongoDB • Socket.io
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-purushottam-tiwari&show_icons=true&theme=tokyonight" />
 </td>
 <td>
-<img src="https://streak-stats.demolab.com?user=dev-himanshu-sharma&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=dev-purushottam-tiwari&theme=tokyonight" />
 </td>
 </tr>
 </table>
@@ -253,7 +253,7 @@ React • Node.js • Express.js • MongoDB • Socket.io
 ## 🛠 Evolution & Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-himanshu-sharma&theme=tokyonight&area=true&hide_border=true&bg_color=1a1b26&color=7aa2f7" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-purushottam-tiwari&theme=tokyonight&area=true&hide_border=true&bg_color=1a1b26&color=7aa2f7" width="90%" />
 </p>
 
 <br/>
@@ -293,5 +293,5 @@ React • Node.js • Express.js • MongoDB • Socket.io
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20by-Himanshu%20Sharma-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20by-Purushottam%20Tiwari-000?style=for-the-badge" />
 </p>
