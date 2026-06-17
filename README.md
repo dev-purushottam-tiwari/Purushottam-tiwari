@@ -114,7 +114,7 @@ Git • Postman • VS Code
 ### 📊 Attendly
 
 <p align="center">
-  <a href="https://attendlyapp-evwl4whra-purushottams-projects-e22cd52a.vercel.app/">
+  <a href="https://attendly-alpha.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel" />
   </a>
 </p>
