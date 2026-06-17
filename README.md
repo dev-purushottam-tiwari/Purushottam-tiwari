@@ -32,7 +32,7 @@
 <tr>
 <td>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Purushottam-tiwari&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-purushottam-tiwari&show_icons=true&theme=tokyonight" />
 
 </td>
 <td>
