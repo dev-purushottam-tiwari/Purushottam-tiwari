@@ -9,35 +9,180 @@
 ---
 
 ## 🌟 About Me
-<p align="center">
-💻 Building real-world full-stack applications <br/>
-🚀 Working on Resume Ranking System <br/>
-🌱 Learning Backend + System Design <br/>
-📫 Email: purushottamtiwari701@gmail.com
-</p>
 
----
+[Future Startup](https://devforge-weld.vercel.app/)
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,mysql,git,postman,vscode" />
-  
-</p>
-
----
-
-## 📊 GitHub Dashboard
-
-<table>
+<table align="center">
 <tr>
-<td>
+<td width="700" align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-purushottam-tiwari&show_icons=true&theme=tokyonight" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-111?style=for-the-badge"/>
+
+<br/><br/>
+
+💻 Building real-world full-stack applications <br/>
+🚀 Currently developing a <b>Resume Ranking System</b> <br/>
+🌱 Exploring <b>Backend Engineering</b> & <b>System Design</b> <br/>
+📫 <b>Email:</b> [hs764664@gmail.com](mailto:hs764664@gmail.com)
+
+<br/>
+
+<img src="https://img.shields.io/badge/MERN-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-000?style=for-the-badge"/>
+
+<br/><br/>
+
+<i>"Turning ideas into scalable systems."</i>
 
 </td>
-<td>
+</tr>
+</table>
 
-<img src="https://streak-stats.demolab.com?user=Purushottam-tiwari&theme=tokyonight" />
+## 🛠️ Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="300">
+
+### 🎨 Frontend
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" /><br/><br/>
+
+HTML • CSS • JavaScript • React
+
+</td>
+
+<td align="center" width="300">
+
+### ⚙️ Backend
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" /><br/><br/>
+
+Node.js • Express
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="300">
+
+### 🗄️ Database
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br/><br/>
+
+MongoDB • MySQL
+
+</td>
+
+<td align="center" width="300">
+
+### 🧰 Tools
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,postman,vscode" /><br/><br/>
+
+Git • Postman • VS Code
+
+</td>
+</tr>
+</table>
+
+
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table align="center">
+<tr>
+
+<td width="400">
+
+### 🚀 Future Startup
+
+<p align="center">
+  <a href="https://devforge-weld.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+#### 💡 Overview
+
+A startup discovery and innovation platform designed to showcase ideas, products, and future business opportunities.
+
+#### ✨ Features
+
+* Modern Responsive UI
+* Startup Showcase Platform
+* Dynamic Content Rendering
+* Optimized Performance
+* MERN Architecture
+
+#### 🛠 Tech Stack
+
+React • Node.js • Express • MongoDB
+
+</td>
+
+<td width="400">
+
+### 📊 Attendly
+
+<p align="center">
+  <a href="https://attendlyapp-evwl4whra-himanshus-projects-e22cd52a.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+#### 💡 Overview
+
+A full-stack Attendance Management System with role-based authentication and attendance tracking.
+
+#### ✨ Features
+
+* JWT Authentication
+* Employee Check-In / Check-Out
+* Admin Dashboard
+* Attendance Analytics
+* Attendance Shortage Detection
+* Dark / Light Mode
+
+#### 🛠 Tech Stack
+
+React • Node.js • Express • MongoDB • Tailwind CSS
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table align="center">
+<tr>
+<td width="800">
+
+
+
+<p align="center">
+  <a href="https://github.com/dev-himanshu-sharma/chatapp">
+    <img src="https://img.shields.io/badge/View%20Repository-111?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 </td>
 </tr>
@@ -45,24 +190,139 @@
 
 ---
 
-## 📈 Activity Graph
+## 🚀 Featured Projects
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Purushottam-tiwari&theme=react-dark" />
+### 📊 Attendly — Attendance Management System
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-himanshu-sharma/attendly/main/frontend/src/components/attendance.jpeg" width="850"/>
+</p>
+
+<p align="center">
+  <b>Full-Stack Employee Attendance Management System</b>
+</p>
+
+#### ✨ Features
+
+* JWT Authentication
+* Role-Based Access Control
+* Employee Check-In / Check-Out
+* Attendance History
+* Attendance Percentage Calculator
+* Attendance Shortage Detection (<75%)
+* Admin Dashboard
+* Dark / Light Mode
+
+#### 🛠 Tech Stack
+
+React • Tailwind CSS • Node.js • Express.js • MongoDB
+
+<p align="center">
+  <a href="https://attendlyapp-evwl4whra-himanshus-projects-e22cd52a.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel" />
+  </a>
+
+  <a href="https://github.com/dev-himanshu-sharma/attendly">
+    <img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-## 💻 Top Languages
+### 🚀 Future Startup
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Purushottam-tiwari&layout=compact&theme=tokyonight" />
+<p align="center">
+  <a href="https://devforge-weld.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+#### ✨ Features
+
+* Startup Discovery Platform
+* Responsive Design
+* Dynamic Content Rendering
+* Modern UI/UX
+* MERN Architecture
+
+#### 🛠 Tech Stack
+
+React • Node.js • Express.js • MongoDB
 
 ---
+
+### 💬 MERN Chat Application
+
+<p align="center">
+  <img src="https://github.com/dev-himanshu-sharma/mern-chatapp/blob/main/client/src/assets/chatui.png" width="850"/>
+</p>
+
+<p align="center">
+  <b>Real-Time Chat Application built using MERN + Socket.io</b>
+</p>
+
+#### ✨ Features
+
+* JWT Authentication
+* Real-Time Messaging
+* Socket.io Integration
+* User-Based Conversations
+* Scalable Backend Architecture
+
+#### 🛠 Tech Stack
+
+React • Node.js • Express.js • MongoDB • Socket.io
+
+<p align="center">
+  <a href="https://github.com/dev-himanshu-sharma/chatapp">
+    <img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-himanshu-sharma&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+</p>
+
+
+
+## 📊 GitHub Dashboard
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-himanshu-sharma&show_icons=true&theme=tokyonight" />
+</td>
+<td>
+<img src="https://streak-stats.demolab.com?user=dev-himanshu-sharma&theme=tokyonight" />
+</td>
+</tr>
+</table>
+
+--- make it more premium
+## 🛠 Evolution & Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-himanshu-sharma&theme=tokyonight&area=true&hide_border=true&bg_color=1a1b26&color=7aa2f7" width="90%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <i>Building scalable systems • Writing clean code • Growing consistently</i>
+</p>
+
 
 ## 🌐 Portfolio
-👉 https://checkmygit.com/Purushottam-tiwari
+
+👉 https://checkmygit.com/dev-himanshu-sharma
 
 ---
 
 ## 🎯 Hobbies
+
 <p align="center">
 🏏 Cricket | 💻 Coding | 🎤 Singing
 </p>
@@ -70,15 +330,20 @@
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/purushottam-kr-tiwari">
+  <!-- <a href="https://www.linkedin.com/in/purushottam-kr-tiwari"> -->
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:purushottamtiwari701@gmail.com">
+  <a href="mailto:hs764664@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-⭐️ From Purushottam Tiwari
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20by-Himanshu%20Sharma-000?style=for-the-badge" />
+</p>
