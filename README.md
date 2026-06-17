@@ -10,7 +10,6 @@
 
 ## 🌟 About Me
 
-[Future Startup](https://devforge-weld.vercel.app/)
 
 <table align="center">
 <tr>
@@ -23,7 +22,7 @@
 💻 Building real-world full-stack applications <br/>
 🚀 Currently developing a <b>Resume Ranking System</b> <br/>
 🌱 Exploring <b>Backend Engineering</b> & <b>System Design</b> <br/>
-📫 <b>Email:</b> [hs764664@gmail.com](mailto:hs764664@gmail.com)
+📫 <b>Email:</b> [purushottamtiwari701@gmail.com](mailto:purushottamtiwari701@gmail.com)
 
 <br/>
 
@@ -109,34 +108,6 @@ Git • Postman • VS Code
 
 <table align="center">
 <tr>
-
-<td width="400">
-
-### 🚀 Future Startup
-
-<p align="center">
-  <a href="https://devforge-weld.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
-
-#### 💡 Overview
-
-A startup discovery and innovation platform designed to showcase ideas, products, and future business opportunities.
-
-#### ✨ Features
-
-* Modern Responsive UI
-* Startup Showcase Platform
-* Dynamic Content Rendering
-* Optimized Performance
-* MERN Architecture
-
-#### 🛠 Tech Stack
-
-React • Node.js • Express • MongoDB
-
-</td>
 
 <td width="400">
 
@@ -226,29 +197,6 @@ React • Tailwind CSS • Node.js • Express.js • MongoDB
     <img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github" />
   </a>
 </p>
-
----
-
-### 🚀 Future Startup
-
-<p align="center">
-  <a href="https://devforge-weld.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
-
-#### ✨ Features
-
-* Startup Discovery Platform
-* Responsive Design
-* Dynamic Content Rendering
-* Modern UI/UX
-* MERN Architecture
-
-#### 🛠 Tech Stack
-
-React • Node.js • Express.js • MongoDB
-
 ---
 
 ### 💬 MERN Chat Application
@@ -317,7 +265,7 @@ React • Node.js • Express.js • MongoDB • Socket.io
 
 ## 🌐 Portfolio
 
-👉 https://checkmygit.com/dev-himanshu-sharma
+👉 https://checkmygit.com/dev-purushottam-tiwari
 
 ---
 
@@ -335,7 +283,7 @@ React • Node.js • Express.js • MongoDB • Socket.io
   <!-- <a href="https://www.linkedin.com/in/purushottam-kr-tiwari"> -->
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:hs764664@gmail.com">
+  <a href="mailto:purushottamtiwari701@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
