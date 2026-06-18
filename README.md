@@ -1,1 +1,242 @@
-<h1 align="center">Hi 👋, I'm Purushottam Tiwari</h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Engineer;Problem+Solver" /> </p> <h3 align="center">🚀 MERN Stack Developer | Final Year CSE Student</h3> --- ## 🌟 About Me <p align="center"> 💻 Building real-world full-stack applications <br/> 🚀 Working on Resume Ranking System <br/> 🌱 Learning Backend + System Design <br/> 📫 Email: purushottamtiwari701@gmail.com </p> --- ## 🛠️ Tech Stack <p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,mysql,git,postman,vscode" /> </p> --- ## 📊 GitHub Dashboard <table> <tr> <td> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Purushottam-tiwari&show_icons=true&theme=tokyonight" /> </td> <td> <img src="https://streak-stats.demolab.com?user=Purushottam-tiwari&theme=tokyonight" /> </td> </tr> </table> --- ## 📈 Activity Graph <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purushottam-tiwari&theme=react-dark" /> --- ## 💻 Top Languages <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Purushottam-tiwari&layout=compact&theme=tokyonight" /> --- ## 🌐 Portfolio 👉 https://checkmygit.com/Purushottam-tiwari --- ## 🎯 Hobbies <p align="center"> 🏏 Cricket | 💻 Coding | 🎤 Singing </p> --- ## 🌐 Connect With Me <p align="center"> <a href="https://www.linkedin.com/in/purushottam-kr-tiwari"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /> </a> <a href="mailto:purushottamtiwari701@gmail.com"> <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /> </a> </p> --- ⭐️ From Purushottam Tiwari
+```md
+<h1 align="center">Hi 👋, I'm Purushottam Tiwari</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Engineer;Problem+Solver" />
+</p>
+
+<h3 align="center">🚀 MERN Stack Developer | Final Year CSE Student</h3>
+
+---
+
+## 🌟 About Me
+
+<table align="center">
+<tr>
+<td width="700" align="center">
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-111?style=for-the-badge"/>
+
+<br/><br/>
+
+💻 Building real-world full-stack applications <br/>
+🚀 Developing scalable MERN applications <br/>
+🌱 Exploring Backend Engineering & System Design <br/>
+📫 <b>Email:</b> <a href="mailto:purushottamtiwari701@gmail.com">purushottamtiwari701@gmail.com</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MERN-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-000?style=for-the-badge"/>
+
+<br/><br/>
+
+<i>"Turning ideas into scalable systems."</i>
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="300">
+
+### 🎨 Frontend
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" /><br/><br/>
+
+HTML • CSS • JavaScript • React
+
+</td>
+
+<td align="center" width="300">
+
+### ⚙️ Backend
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" /><br/><br/>
+
+Node.js • Express.js
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="300">
+
+### 🗄️ Database
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br/><br/>
+
+MongoDB • MySQL
+
+</td>
+
+<td align="center" width="300">
+
+### 🧰 Tools
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,postman,vscode" /><br/><br/>
+
+Git • Postman • VS Code
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Attendly — Attendance Management System
+
+<p align="center">
+  <b>Full-Stack Employee Attendance Management System</b>
+</p>
+
+#### ✨ Features
+
+* JWT Authentication
+* Role-Based Access Control
+* Employee Check-In / Check-Out
+* Attendance History
+* Attendance Percentage Calculator
+* Attendance Shortage Detection (<75%)
+* Admin Dashboard
+* Dark / Light Mode
+
+#### 🛠 Tech Stack
+
+React • Tailwind CSS • Node.js • Express.js • MongoDB
+
+<p align="center">
+  <a href="https://attendly-alpha.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel" />
+  </a>
+
+  <a href="https://github.com/dev-purushottam-tiwari/Attendly">
+    <img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+### 💬 MERN Chat Application
+
+<p align="center">
+  <b>Real-Time Chat Application built using MERN + Socket.io</b>
+</p>
+
+#### ✨ Features
+
+* JWT Authentication
+* Real-Time Messaging
+* Socket.io Integration
+* User-Based Conversations
+* Scalable Backend Architecture
+
+#### 🛠 Tech Stack
+
+React • Node.js • Express.js • MongoDB • Socket.io
+
+<p align="center">
+  <a href="https://github.com/dev-purushottam-tiwari">
+    <img src="https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-purushottam-tiwari&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+</p>
+
+## 📊 GitHub Dashboard
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-purushottam-tiwari&show_icons=true&theme=tokyonight" />
+
+</td>
+<td>
+
+<img src="https://streak-stats.demolab.com?user=dev-purushottam-tiwari&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Evolution & Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-purushottam-tiwari&theme=tokyonight&area=true&hide_border=true&bg_color=1a1b26&color=7aa2f7" width="90%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <i>Building scalable systems • Writing clean code • Growing consistently</i>
+</p>
+
+---
+
+## 🌐 Portfolio
+
+👉 https://checkmygit.com/dev-purushottam-tiwari
+
+---
+
+## 🎯 Hobbies
+
+<p align="center">
+🏏 Cricket | 💻 Coding | 🎤 Singing
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/purushottam-kr-tiwari">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/dev-purushottam-tiwari">
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
+</a>
+
+<a href="mailto:purushottamtiwari701@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20by-Purushottam%20Tiwari-000?style=for-the-badge" />
+</p>
+```
