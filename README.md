@@ -228,7 +228,7 @@ React • Node.js • Express.js • MongoDB • Socket.io
 </a>
 
 <a href="mailto:purushottamtiwari701@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
