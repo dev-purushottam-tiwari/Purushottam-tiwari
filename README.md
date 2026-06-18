@@ -140,8 +140,6 @@ React • Tailwind CSS • Node.js • Express.js • MongoDB
 
 ### 💬 MERN Chat Application
 
-[Live] - "https://chat-app-sandy-theta-77.vercel.app/login"
-
 <p align="center">
   <b>Real-Time Chat Application built using MERN + Socket.io</b>
 </p>
